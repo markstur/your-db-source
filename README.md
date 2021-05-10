@@ -10,7 +10,6 @@ can support thousands of concurrent users, complex traversals, and analytic grap
 [![Javadoc][javadoc-shield]][javadoc-link]
 [![Build Status][travis-shield]][travis-link]
 [![Codecov][codecov-shield]][codecov-link]
-[![Coverity Scan][coverity-shield]][coverity-link]
 
 [travis-shield]: https://travis-ci.org/JanusGraph/janusgraph.svg?branch=master
 [travis-link]: https://travis-ci.org/JanusGraph/janusgraph
