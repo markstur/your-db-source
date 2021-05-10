@@ -1,3 +1,7 @@
+This is a copy of the JanusGraph repo for a PoC.
+
+
+
 [![JanusGraph logo](janusgraph.png)](https://janusgraph.org/)
 
 JanusGraph is a highly scalable [graph database](https://en.wikipedia.org/wiki/Graph_database)
