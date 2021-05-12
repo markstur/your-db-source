@@ -1,4 +1,5 @@
 This is a copy of the JanusGraph repo for a PoC.
+The v0.5 maintenance would continue on this branch.
 
 
 
