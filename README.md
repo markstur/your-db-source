@@ -3,6 +3,7 @@ The v0.5 maintenance would continue on this branch.
 
 version bump
 version bump
+version bump (hopefully this will be v0.5.4)
 
 
 [![JanusGraph logo](janusgraph.png)](https://janusgraph.org/)
