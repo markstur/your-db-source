@@ -2,6 +2,7 @@ This is a copy of the JanusGraph repo for a PoC.
 The v0.5 maintenance would continue on this branch.
 
 version bump
+version bump
 
 
 [![JanusGraph logo](janusgraph.png)](https://janusgraph.org/)
